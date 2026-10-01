@@ -1,0 +1,17 @@
+{
+  "examples": 595,
+  "train": 559,
+  "valid": 36,
+  "skipped": 0,
+  "chars_total": 3932413,
+  "chars_median": 3971,
+  "chars_max": 37701,
+  "length_buckets": {
+    "2k_8k": 329,
+    "lt_2k": 116,
+    "8k_24k": 123,
+    "24k_48k": 27
+  },
+  "ends_with_assistant": true,
+  "schema": "openai-chat-messages"
+}
